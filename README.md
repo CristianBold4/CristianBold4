@@ -18,7 +18,7 @@
   </a>
   -->
   
-  <a href="https://x.com/Boldrin06">
+  <a href="https://x.com/CristianBold4">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
 
