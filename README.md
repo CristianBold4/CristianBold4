@@ -49,7 +49,7 @@
 -->
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBold4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBold4&layout=compact&theme=vision-friendly-dark&exclude_repo=HandSegmentationCV,DeepLearningHW,learnopencv,AI-project,ReinforcementLearning_HWs,PP4DS-E)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
