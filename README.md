@@ -1,6 +1,6 @@
 ## Hello, World! 👋🌎
 
-- :telescope: 🇮🇹 I’m currently a second year Ph.D. Student at Univeristy of Padova, Italy;
+- :telescope: 🇮🇹 I’m currently a second year Ph.D. Student in Information Engineering, Univeristy of Padova, Italy;
 
 - 🖥️ 📚 Working on Network Analysis, Machine Learning and Graph Analytics;
 
