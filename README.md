@@ -7,26 +7,30 @@
 - 🏀 ⚽ Basketball and Soccer fan. 
 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/cristian-boldrin">
+<div id="badges" style="text-align: center; margin: 50px 0;">
+
+  <div style="display: flex; justify-content: center; gap: 25px">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/cristian-boldrin" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  <!--
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  -->
   
-  <a href="https://x.com/CristianBold4">
+
+  <!-- Website Badge -->
+  <a href="https://cristianboldrin.github.io" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+
+  <!-- X (Twitter) Badge -->
+  <a href="https://x.com/CristianBold4" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=CristianBold4&style=flat-square&color=blue" alt=""/>
-
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=CristianBold4&style=flat-square&color=blue" alt="Profile Views" style="margin-top: 20px;"/>
+  </div>
 </div>
+
 
 ---
 
