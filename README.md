@@ -6,30 +6,35 @@
 
 - 🏀 ⚽ Basketball and Soccer fan. 
 
+### Useful Links:
 
-<div id="badges" style="text-align: center; margin: 50px 0;">
-
-  <div style="display: flex; justify-content: center; gap: 25px">
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/cristian-boldrin" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px;"></span>
+  <a href="https://www.linkedin.com/in/cristian-boldrin">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" width="100"/>
   </a>
-  
-
-  <!-- Website Badge -->
-  <a href="https://cristianboldrin.github.io" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
-
-  <!-- X (Twitter) Badge -->
-  <a href="https://x.com/CristianBold4" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
-  </a>
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=CristianBold4&style=flat-square&color=blue" alt="Profile Views" style="margin-top: 20px;"/>
   </div>
+
+ <!-- Webpage Badge -->
+<div style="display: flex; align-items: left;">
+  <span style="margin-bottom: 1000px; margin-right: 100px"></span>
+  <a href="https://cristianboldrin.github.io">
+    <img src="https://img.shields.io/badge/My%20Website-4285F4?logo=GoogleChrome&logoColor=white" alt="Website" width="100"/>
+  </a>
 </div>
+
+ <!-- X Badge -->
+<div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px;"></span>
+  <a href="https://x.com/CristianBold4">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X" width="75"/>
+  </a>
+</div>
+
+  
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=CristianBold4&style=flat-square&color=blue" alt="Profile Views" style="margin-top: 20px;"/>
 
 
 ---
