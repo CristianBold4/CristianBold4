@@ -65,7 +65,9 @@
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CristianBold4&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=CristianBold4&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
 
 
 <!--
